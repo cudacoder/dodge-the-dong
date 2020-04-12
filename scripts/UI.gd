@@ -9,9 +9,10 @@ func show_message(text):
 
 func show_game_over():
 	show_message("Game Over")
-	yield($MessageTimer,"timeout")
+	yield($MessageTimer, "timeout")
+	
 	$StartButton.show()
-	$MessageLabel.text = "Dodge the\nBulbuls!"
+	show_message("Dodge the Dongs!")
 	$MessageLabel.show()
 	
 func update_score(score):
