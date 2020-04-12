@@ -1,5 +1,5 @@
 # Dodge The Dong
 
-  A game made using the Godot engine about a guy trying to dodge incoming dongs.
+  A mini-game featuring a guy trying to dodge dongs, made using the Godot engine.
   
-  ![](https://media.giphy.com/media/hqm1JLFKZziVke5c0G/giphy.gif)
+  ![Itay Yeled Kaka](https://media.giphy.com/media/hqm1JLFKZziVke5c0G/giphy.gif)
